@@ -1,0 +1,37 @@
+                       Server Creation - Express / Node JS
+
+
+                            command
+
+
+                    1.create package.JSON - npm init
+                        
+                    2.Install Express - npm i express
+
+                    3.to run server - nod index.js
+
+                    4.to install nodemon - npm i -g nodemon
+
+
+                        Steps - server Creation
+
+
+                    1.create folder folder for Server
+
+                    2.create package.JSON
+
+                    3.Install Express
+
+                    4.create index.js file
+
+                    5 import express in index.js
+
+                    6.create an app using express
+
+                    7.set up the port number
+
+                    8.resolve http reqst from client
+
+                    9.run server
+
+                    10.parse json data in index.js
